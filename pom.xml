@@ -16,6 +16,13 @@
         для разработки платформ аренды на базе Spring Boot + JPA.
     </description>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/Emelyanenko4lexandr/rental-core</url>
+        </repository>
+    </distributionManagement>
+
     <properties>
         <java.version>23</java.version>
         <maven.compiler.source>23</maven.compiler.source>
