@@ -1,9 +1,5 @@
 package dev.rentalcore.exception;
 
-/**
- * Исключение, выбрасываемое когда запрошенный ресурс не найден.
- * Соответствует HTTP 404 Not Found.
- */
 public class RentalNotFoundException extends RuntimeException {
 
     public RentalNotFoundException(String message) {
