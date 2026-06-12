@@ -13,7 +13,7 @@
     <name>Rental Core</name>
     <description>
         Универсальная библиотека базовых сущностей, репозиториев и сервисов
-        для разработки платформ аренды на базе Spring Boot + JPA.
+        для разработки сервисов аренды на базе Spring Boot + JPA.
     </description>
 
     <dependencies>
